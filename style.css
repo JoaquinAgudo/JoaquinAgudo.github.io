@@ -168,7 +168,7 @@ header {
 	 }
  
  .texto{
-	 left:50px;
+	 left:40px;
 	 
 	 }
 	 
@@ -203,8 +203,8 @@ header {
 	position:absolute;
 	top:245px;
 	color:black;
-	left:400px;
-	right:950px;
+	left:200px;
+	right:1000px;
  
 }
 
@@ -258,7 +258,12 @@ header {
 	position:absolute;
  
  }
+ .formatodemo{
+	left:100px;
+	top:500px;
+	position:absolute;
  
+ }
  	 .foto2{
 	left:500px;
 	top:450px;
