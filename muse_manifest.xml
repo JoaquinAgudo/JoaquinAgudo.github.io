@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="joaquinagudo.com" resolutions="1x" timestamp="1498488196480">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="joaquinagudo.com" resolutions="1x" timestamp="1498490587125">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="animaciones.css" crc="4207633020" ref="animaciones"/>
+    <file name="animaciones.css" crc="4224798083" ref="animaciones"/>
     <file name="shading.css" crc="3820543134" ref="shading"/>
-    <file name="contacto.css" crc="381274643" ref="contacto"/>
-    <file name="galeria.css" crc="4019768288" ref="galeria"/>
+    <file name="contacto.css" crc="476418644" ref="contacto"/>
+    <file name="galeria.css" crc="176868476" ref="galeria"/>
     <file name="index.css" crc="169857287" ref="index"/>
     <file name="modelos.css" crc="2376865" ref="modelos"/>
     <file name="demo-reel.css" crc="43686704" ref="demo-reel"/>
@@ -62,7 +62,6 @@
     <file name="u1573-4.png" crc="3838544748" ref="demo-reel"/>
     <file name="u1574-4.png" crc="307074828" ref="demo-reel"/>
     <file name="phone_31105.png" crc="357142598" seo="true" ref="contacto"/>
-    <file name="twitter-icon-crop-u2474.png" crc="327316766" ref="contacto"/>
     <file name="07f0d7b69ef071571e4ada2f4d6a053a-fondo-del-icono-de-instagram-by-vexels.png" crc="261308424" seo="true" ref="contacto"/>
     <file name="u2416-4.png" crc="3896060819" ref="contacto"/>
     <file name="icono-mail-1024x1024.png" crc="4282951142" seo="true" ref="contacto"/>
@@ -85,12 +84,13 @@
     <file name="u2150-4.png" crc="4074170718" ref="shading"/>
     <file name="u2152-4.png" crc="3838544748" ref="shading"/>
     <file name="u2153-4.png" crc="307074828" ref="shading"/>
+    <file name="twitter-icon.png" crc="335156748" seo="true" ref="contacto"/>
   </folder>
   <file name="index.html" crc="310992111" seo="true" mt="1498477308790" redirect="true"/>
-  <file name="galeria.html" crc="4164469929" seo="true" mt="1498486703210" redirect="true"/>
+  <file name="galeria.html" crc="4016439530" seo="true" mt="1498490561249" redirect="true"/>
   <file name="modelos.html" crc="293416535" seo="true" mt="1498486584101" redirect="true"/>
-  <file name="animaciones.html" crc="4235839884" seo="true" mt="1498485832962" redirect="true"/>
+  <file name="animaciones.html" crc="286508514" seo="true" mt="1498490425833" redirect="true"/>
   <file name="demo-reel.html" crc="3849399877" seo="true" mt="1498486133683" redirect="true"/>
-  <file name="contacto.html" crc="4060941772" seo="true" mt="1498488082500" redirect="true"/>
+  <file name="contacto.html" crc="4018455367" seo="true" mt="1498490399379" redirect="true"/>
   <file name="shading.html" crc="4150473018" seo="true" mt="1498486968958" redirect="true"/>
 </manifest>

@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://joaquinagudo.com/contacto.html</loc>
+    <loc>http://joaquinagudo.com/shading.html</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://joaquinagudo.com/shading.html</loc>
+    <loc>http://joaquinagudo.com/contacto.html</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,19 +31,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://joaquinagudo.com/galeria.html</loc>
-    <lastmod>2017-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://joaquinagudo.com/modelos.html</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://joaquinagudo.com/images/trompetas.jpg</loc>
+    <loc>http://joaquinagudo.com/galeria.html</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -55,13 +49,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://joaquinagudo.com/images/phone_31105.png</loc>
+    <lastmod>2017-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://joaquinagudo.com/images/07f0d7b69ef071571e4ada2f4d6a053a-fondo-del-icono-de-instagram-by-vexels.png</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://joaquinagudo.com/images/phone_31105.png</loc>
+    <loc>http://joaquinagudo.com/images/icono-mail-1024x1024.png</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,7 +73,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://joaquinagudo.com/images/espada.jpg</loc>
+    <loc>http://joaquinagudo.com/images/trompetas.jpg</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -92,6 +92,12 @@
   </url>
   <url>
     <loc>http://joaquinagudo.com/images/trompetashading2.jpg</loc>
+    <lastmod>2017-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://joaquinagudo.com/images/twitter-icon.png</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -121,12 +127,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://joaquinagudo.com/images/icono-mail-1024x1024.png</loc>
-    <lastmod>2017-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://joaquinagudo.com/images/cocheshading.jpg</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,6 +134,12 @@
   </url>
   <url>
     <loc>http://joaquinagudo.com/images/coche747x421.jpg</loc>
+    <lastmod>2017-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://joaquinagudo.com/images/espada.jpg</loc>
     <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
