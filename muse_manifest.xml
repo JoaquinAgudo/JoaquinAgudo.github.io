@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="joaquinagudo.com" resolutions="1x" timestamp="1498492067417">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="joaquinagudo.com" resolutions="1x" timestamp="1510417682979">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="animaciones.css" crc="4224798083" ref="animaciones"/>
-    <file name="shading.css" crc="3820543134" ref="shading"/>
-    <file name="contacto.css" crc="476418644" ref="contacto"/>
-    <file name="galeria.css" crc="3889354433" ref="galeria"/>
-    <file name="index.css" crc="169857287" ref="index"/>
-    <file name="modelos.css" crc="2376865" ref="modelos"/>
-    <file name="demo-reel.css" crc="43686704" ref="demo-reel"/>
+    <file name="galeria.css" crc="64264539" ref="galeria"/>
+    <file name="contacto.css" crc="4025213422" ref="contacto"/>
+    <file name="index.css" crc="3921073358" ref="index"/>
+    <file name="modelos.css" crc="442280136" ref="modelos"/>
+    <file name="shading.css" crc="72339461" ref="shading"/>
+    <file name="animaciones.css" crc="4231776020" ref="animaciones"/>
+    <file name="demo-reel.css" crc="4292440531" ref="demo-reel"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:galeria:modelos:animaciones:demo-reel:contacto:shading"/>
@@ -22,75 +22,78 @@
     <file name="require.js" crc="244322403" ref="index:galeria:modelos:animaciones:demo-reel:contacto:shading"/>
   </folder>
   <folder name="images">
-    <file name="cocheshading.jpg" crc="456224480" seo="true" ref="index"/>
+    <file name="coche.jpg" crc="483503426" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:galeria:modelos:shading"/>
-    <file name="gafas.jpg" crc="3872947453" seo="true" ref="index"/>
-    <file name="trompetashading.jpg" crc="4143031774" seo="true" ref="index"/>
-    <file name="coche.jpg" crc="278207544" seo="true" ref="index"/>
+    <file name="trompetashading.jpg" crc="4214512660" seo="true" ref="index"/>
+    <file name="bolas_leces.jpg" crc="4240019870" seo="true" ref="index"/>
+    <file name="fsdf.jpg" crc="3890269968" seo="true" ref="index"/>
     <file name="pez.jpg" crc="4003642902" seo="true" ref="index"/>
-    <file name="rendersito2.jpg" crc="21748710" seo="true" ref="index"/>
+    <file name="sablalaser.jpg" crc="4237762713" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:galeria:modelos:shading"/>
-    <file name="u419-4-a.png" crc="3896060819" ref="index"/>
-    <file name="u438-4.png" crc="4074170718" ref="index"/>
-    <file name="u426-4.png" crc="3838544748" ref="index"/>
-    <file name="u429-4.png" crc="307074828" ref="index"/>
-    <file name="u1191-4.png" crc="3896060819" ref="galeria"/>
-    <file name="u1195-4.png" crc="4074170718" ref="galeria"/>
+    <file name="u419-4-a.png" crc="214096454" ref="index"/>
+    <file name="u438-4.png" crc="9311412" ref="index"/>
+    <file name="u426-4.png" crc="278331091" ref="index"/>
+    <file name="u429-4.png" crc="4227220935" ref="index"/>
+    <file name="u1191-4.png" crc="214096454" ref="galeria"/>
+    <file name="u1195-4.png" crc="9311412" ref="galeria"/>
+    <file name="u1198-4-a.png" crc="3923812755" ref="galeria"/>
     <file name="faro-crop-u1209.jpg" crc="483033615" ref="galeria"/>
-    <file name="u1544-4.png" crc="3833582770" ref="galeria"/>
-    <file name="u1198-4-a.png" crc="3838544748" ref="galeria"/>
     <file name="pez-crop-u1372.jpg" crc="3827724411" ref="galeria"/>
-    <file name="u1201-4.png" crc="307074828" ref="galeria"/>
-    <file name="u1565-4.png" crc="164681265" ref="galeria"/>
     <file name="animacion-crop-u1422.jpg" crc="493076718" ref="galeria"/>
-    <file name="u1568-4.png" crc="524183909" ref="galeria"/>
-    <file name="u1764-4.png" crc="3896060819" ref="modelos"/>
-    <file name="coche-crop-u1871.jpg" crc="4060082244" ref="modelos"/>
+    <file name="u1544-4.png" crc="496766168" ref="galeria"/>
+    <file name="u1568-4.png" crc="400794443" ref="galeria"/>
+    <file name="u1201-4.png" crc="516073051" ref="galeria"/>
+    <file name="u1565-4.png" crc="499957269" ref="galeria"/>
+    <file name="u1764-4.png" crc="214096454" ref="modelos"/>
+    <file name="lambert-crop-u1871.jpg" crc="4194668739" ref="modelos"/>
+    <file name="lambert.jpg" crc="4246778724" seo="true" ref="modelos"/>
     <file name="faro-crop-u1997.jpg" crc="3802153708" ref="modelos"/>
     <file name="guitarra-crop-u2023.jpg" crc="474703517" ref="modelos"/>
     <file name="trompetas.jpg" crc="513769130" seo="true" ref="modelos"/>
-    <file name="rendersito2764x430.jpg" crc="118891279" seo="true" ref="modelos"/>
-    <file name="u1765-4.png" crc="4074170718" ref="modelos"/>
-    <file name="u1766-4.png" crc="3838544748" ref="modelos"/>
-    <file name="u1767-4.png" crc="307074828" ref="modelos"/>
-    <file name="u1707-4.png" crc="3896060819" ref="animaciones"/>
-    <file name="u1708-4.png" crc="4074170718" ref="animaciones"/>
-    <file name="u1709-4.png" crc="3838544748" ref="animaciones"/>
-    <file name="u1710-4.png" crc="307074828" ref="animaciones"/>
-    <file name="u1571-4.png" crc="3896060819" ref="demo-reel"/>
-    <file name="u1572-4-a.png" crc="4074170718" ref="demo-reel"/>
-    <file name="u1573-4.png" crc="3838544748" ref="demo-reel"/>
-    <file name="u1574-4.png" crc="307074828" ref="demo-reel"/>
+    <file name="rendersito2.jpg" crc="118891279" seo="true" ref="modelos"/>
+    <file name="u1765-4.png" crc="9311412" ref="modelos"/>
+    <file name="u1766-4.png" crc="33506470" ref="modelos"/>
+    <file name="u1767-4.png" crc="516073051" ref="modelos"/>
+    <file name="u1707-4.png" crc="214096454" ref="animaciones"/>
+    <file name="u1708-4.png" crc="9311412" ref="animaciones"/>
+    <file name="u1709-4.png" crc="33506470" ref="animaciones"/>
+    <file name="u1710-4.png" crc="516073051" ref="animaciones"/>
+    <file name="u1571-4.png" crc="214096454" ref="demo-reel"/>
+    <file name="u1572-4-a.png" crc="9311412" ref="demo-reel"/>
+    <file name="u1573-4.png" crc="3865639189" ref="demo-reel"/>
+    <file name="u1574-4.png" crc="355241390" ref="demo-reel"/>
+    <file name="u2416-4.png" crc="214096454" ref="contacto"/>
+    <file name="u2417-4.png" crc="9311412" ref="contacto"/>
+    <file name="u2418-4.png" crc="33506470" ref="contacto"/>
+    <file name="u2419-4-a.png" crc="3863166155" ref="contacto"/>
     <file name="phone_31105.png" crc="357142598" seo="true" ref="contacto"/>
-    <file name="07f0d7b69ef071571e4ada2f4d6a053a-fondo-del-icono-de-instagram-by-vexels.png" crc="261308424" seo="true" ref="contacto"/>
-    <file name="u2416-4.png" crc="3896060819" ref="contacto"/>
-    <file name="icono-mail-1024x1024.png" crc="4282951142" seo="true" ref="contacto"/>
-    <file name="u2417-4.png" crc="4074170718" ref="contacto"/>
-    <file name="u2418-4.png" crc="3838544748" ref="contacto"/>
-    <file name="u2419-4-a.png" crc="307074828" ref="contacto"/>
-    <file name="u2448-4.png" crc="4160563627" ref="contacto"/>
-    <file name="u2457-4.png" crc="3920373839" ref="contacto"/>
-    <file name="u2451-4.png" crc="516080904" ref="contacto"/>
-    <file name="u2454-4.png" crc="417519783" ref="contacto"/>
-    <file name="u2151-4.png" crc="3896060819" ref="shading"/>
-    <file name="coche747x421.jpg" crc="295230571" seo="true" ref="shading"/>
-    <file name="pez-crop-u2230.jpg" crc="4026474549" ref="shading"/>
-    <file name="casco-crop-u2299.jpg" crc="4284697629" ref="shading"/>
-    <file name="coraza-crop-u2145.jpg" crc="4257195376" ref="shading"/>
-    <file name="espada.jpg" crc="257218930" seo="true" ref="shading"/>
-    <file name="gafas2.jpg" crc="4043108911" seo="true" ref="shading"/>
-    <file name="guitarrashading.jpg" crc="251586212" seo="true" ref="shading"/>
-    <file name="trompetashading2.jpg" crc="4055678355" seo="true" ref="shading"/>
-    <file name="u2150-4.png" crc="4074170718" ref="shading"/>
-    <file name="u2152-4.png" crc="3838544748" ref="shading"/>
-    <file name="u2153-4.png" crc="307074828" ref="shading"/>
+    <file name="u2448-4.png" crc="3894183117" ref="contacto"/>
     <file name="twitter-icon.png" crc="335156748" seo="true" ref="contacto"/>
+    <file name="u2457-4.png" crc="3942300767" ref="contacto"/>
+    <file name="07f0d7b69ef071571e4ada2f4d6a053a-fondo-del-icono-de-instagram-by-vexels.png" crc="261308424" seo="true" ref="contacto"/>
+    <file name="u2451-4.png" crc="4272349294" ref="contacto"/>
+    <file name="icono-mail-1024x1024.png" crc="4282951142" seo="true" ref="contacto"/>
+    <file name="u2454-4.png" crc="409894271" ref="contacto"/>
+    <file name="u2151-4.png" crc="214096454" ref="shading"/>
+    <file name="coche2.jpg" crc="295230571" seo="true" ref="shading"/>
+    <file name="shading-crop-u3484.jpg" crc="28875525" ref="shading"/>
+    <file name="pez-crop-u2230.jpg" crc="114024797" ref="shading"/>
+    <file name="casco-crop-u2299.jpg" crc="4284697629" ref="shading"/>
+    <file name="coraza-crop-u2145.jpg" crc="226632602" ref="shading"/>
+    <file name="espada.jpg" crc="257218930" seo="true" ref="shading"/>
+    <file name="gafas.jpg" crc="258414428" seo="true" ref="shading"/>
+    <file name="guitarrashading.jpg" crc="251586212" seo="true" ref="shading"/>
+    <file name="trompetashading922x519.jpg" crc="3774894185" seo="true" ref="shading"/>
+    <file name="sablalaser-crop-u3516.jpg" crc="3777609215" ref="shading"/>
+    <file name="u2150-4.png" crc="9311412" ref="shading"/>
+    <file name="u2152-4.png" crc="33506470" ref="shading"/>
+    <file name="u2153-4.png" crc="393254639" ref="shading"/>
   </folder>
-  <file name="index.html" crc="310992111" seo="true" mt="1498477308790" redirect="true"/>
-  <file name="galeria.html" crc="220633121" seo="true" mt="1498491978097" redirect="true"/>
-  <file name="modelos.html" crc="293416535" seo="true" mt="1498486584101" redirect="true"/>
-  <file name="animaciones.html" crc="286508514" seo="true" mt="1498490425833" redirect="true"/>
-  <file name="demo-reel.html" crc="3849399877" seo="true" mt="1498486133683" redirect="true"/>
-  <file name="contacto.html" crc="4018455367" seo="true" mt="1498490399379" redirect="true"/>
-  <file name="shading.html" crc="4150473018" seo="true" mt="1498486968958" redirect="true"/>
+  <file name="index.html" crc="4086098579" seo="true" mt="1510417473460" redirect="true"/>
+  <file name="galeria.html" crc="339978990" seo="true" mt="1510417457607" redirect="true"/>
+  <file name="modelos.html" crc="67980805" seo="true" mt="1510417516963" redirect="true"/>
+  <file name="animaciones.html" crc="4142381095" seo="true" mt="1510417547899" redirect="true"/>
+  <file name="demo-reel.html" crc="208360539" seo="true" mt="1510417482118" redirect="true"/>
+  <file name="contacto.html" crc="286308325" seo="true" mt="1510417497036" redirect="true"/>
+  <file name="shading.html" crc="63136071" seo="true" mt="1510417531818" redirect="true"/>
 </manifest>
